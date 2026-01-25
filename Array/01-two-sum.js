@@ -1,7 +1,6 @@
 /*
 Problem 1: Two Sum
 
-
 Approach:
 - First, we store each number and its index in a hash (object) for fast lookup.
 - Then, we check for each number if the "complement" (target - current number) exists in the hash.
